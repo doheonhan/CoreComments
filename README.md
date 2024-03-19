@@ -1,4 +1,4 @@
-# Automated Detection of Helpful Comments in Online Discussion Forums
+# Automated Detection of Core Comments in Online UAV Discussion Forums
 
 This contains 
 * Data(Data collection code and collected data)
