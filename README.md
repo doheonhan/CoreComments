@@ -4,6 +4,7 @@ This contains
 * Data(Raw data collection code and collected data(CSV file))
 * W2V(w2v train code, generated w2v models, and more text data used for pre-train)
 * NoisyLabelEffect: Experiments for observing the effect of noisy labels in different data splits
+* CommentsDetector: Helpful comment detector and Answer comment detector
 
 Embedding vectors from ADA are too large, so let me know if you need the file. 
 
